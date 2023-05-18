@@ -4,6 +4,7 @@
 
 
 Task Details
+
 1)Sign in to AWS Management Console
 
 2)Setup Visual Studio Code

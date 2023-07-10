@@ -24,6 +24,10 @@ You can test this project with this commands on your local machine.
 
 ![Chart](assets/Chart.png)
 
+![S3](assets/S3.png)
+
+![S3-2](assets/S3-2.png)
+
 
 Task Details
 
